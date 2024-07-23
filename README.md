@@ -23,7 +23,7 @@
 <img Align="left" src="https://github-readme-stats.vercel.app/api?username=Roufaida-As&count_private=true&show_icons=true&theme=algolia">
 </p>
 
-<p>
-&nbsp;<img Align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roufaida-As&layout=compact&heigt=&theme=algolia">
-</p>
 
+
+
+<p><img Align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roufaida-As&" alt="Roufaida-As" /></p>
