@@ -1,9 +1,10 @@
 <h1 Align="center">Hi 👋, I'm Roufaida Asbar </h1>
+<h2>a flutter developer</h2>
 
 <p Align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Computer++science++student" alt="Typing SVG" /></a></p>
 
 
-- 🌱 I’m currently learning **Flutter,Firebase**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **r.asbar@esi-sba.dz**
 
