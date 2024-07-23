@@ -24,5 +24,5 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roufaida-As&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roufaida-As&layout=compact&heigt=&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <p><img Align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roufaida-As&" alt="Roufaida-As" /></p>
