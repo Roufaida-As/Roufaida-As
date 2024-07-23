@@ -1,7 +1,6 @@
 <h1 Align="center">Hi 👋, I'm Roufaida Asbar </h1>
-<h2 Align="center">a flutter developer</h2>
 
-<p Align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Computer++science++student" alt="Typing SVG" /></a></p>
+<p Align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=a++flutter++developer" alt="Typing SVG" /></a></p>
 
 
 - 🌱 I’m currently learning **Node.js**
