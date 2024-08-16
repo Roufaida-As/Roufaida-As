@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **r.asbar@esi-sba.dz**
 
-- 📄 Education **ESI-SBA (higher school of computer science)**
+- 📄 Education **ESI-ALGER (higher school of computer science)**
 
 <h3 Align="left">Connect with me:</h3>
 <p Align="left">
