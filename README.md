@@ -1,9 +1,9 @@
 <h1 Align="center">Hi 👋, I'm Roufaida Asbar </h1>
 
-<p Align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=a++flutter++developer" alt="Typing SVG" /></a></p>
+<p Align="center"> i'm a third year student at the higher national school of computer science and i'm a flutter developer</p>
 
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js**,**Express.js**,**MongoDB**
 
 - 📫 How to reach me **r.asbar@esi-sba.dz**
 
@@ -23,6 +23,4 @@
 <img Align="left" src="https://github-readme-stats.vercel.app/api?username=Roufaida-As&count_private=true&show_icons=true&theme=algolia">
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roufaida-As&layout=compact&heigt=&theme=algolia)](https://github.com/Roufaida-As/github-readme-stats)
 <p><img Align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roufaida-As&" alt="Roufaida-As" /></p>
