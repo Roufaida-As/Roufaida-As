@@ -19,8 +19,7 @@
 <p Align="left">   </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   </p>
 
 
-<p>
-<img Align="left" src="https://github-readme-stats.vercel.app/api?username=Roufaida-As&count_private=true&show_icons=true&theme=algolia">
-</p>
 
-<p><img Align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roufaida-As&" alt="Roufaida-As" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roufaida-As&layout=compact)](https://github.com/Roufaida-As)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roufaida-As&show_icons=true&hide=prs,issues&count_private=true&theme=radical)](https://github.com/Roufaida-As)
+[![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Roufaida-As)](https://github.com/Roufaida-As)
