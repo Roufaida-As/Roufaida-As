@@ -1,6 +1,6 @@
 <h1 Align="center">Hi 👋, I'm Roufaida Asbar </h1>
 
-<p Align="center"> i'm a third year student at the higher national school of computer science and i'm a flutter developer</p>
+<h3 Align="center"> i'm a third year student at the higher national school of computer science and i'm a flutter developer</h3>
 
 
 - 🌱 I’m currently learning **Node.js**,**Express.js**,**MongoDB**
