@@ -1,6 +1,7 @@
 <h1 Align="center">Hi 👋, I'm Roufaida Asbar </h1>
 
 <h3 Align="center"> i'm a third year student at the higher national school of computer science and i'm a flutter developer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Roufaida-As&label=Profile%20views&color=0e75b6&style=flat" alt="Roufaida-As" /> </p>
 
 
 - 🌱 I’m currently learning **Node.js**,**Express.js**,**MongoDB**
