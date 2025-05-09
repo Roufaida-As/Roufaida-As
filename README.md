@@ -4,7 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Roufaida-As&label=Profile%20views&color=0e75b6&style=flat" alt="Roufaida-As" /> </p>
 
 
-- 🌱 I’m currently a backend intern at Thynk Tech Dz
 
 - 📫 How to reach me **mr_asbar@esi.dz**
 
