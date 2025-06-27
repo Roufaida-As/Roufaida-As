@@ -25,5 +25,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roufaida-As&layout=compact)](https://github.com/Roufaida-As)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roufaida-As&show_icons=true&hide=prs,issues&count_private=true&theme=radical)](https://github.com/Roufaida-As)
-[![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Roufaida-As)](https://github.com/Roufaida-As)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roufaida-As&show_icons=true&hide=prs,issues&count_private=true&theme=radical)](https://github.com/Roufaida-As)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Roufaida-As)](https://git.io/streak-stats)
