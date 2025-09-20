@@ -1,6 +1,6 @@
 <h1 Align="center">Hi 👋, I'm Roufaida Asbar </h1>
 
-<h3 Align="center"> i'm a third year student at the higher national school of computer science and i'm a MERN Stack developer and a flutter mobile developer </h3>
+<h3 Align="center"> i'm a fourth year software engineering student at Ecole Nationale Superieure d'Informatique Alger and i'm a web developer, flutter mobile developer and a freelancer </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Roufaida-As&label=Profile%20views&color=0e75b6&style=flat" alt="Roufaida-As" /> </p>
 
 
